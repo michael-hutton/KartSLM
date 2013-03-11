@@ -11,4 +11,6 @@
 *.lai
 *.la
 *.a
-KartSLM/KartSLM.opensdf
+*.opensdf
+*.sdf
+*.suo
